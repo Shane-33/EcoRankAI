@@ -1,0 +1,34 @@
+Summary Statistics 
+The file contains data related to Dominica between the years 2005, 2007, 2013 and 2017. The columns include Access to Electricity (% of Population), Access to Clean Fuels for Cooking, Renewable-electricity-generating-capacity-per-capita, Financial Flows to Developing Countries (US ),Value_co2_emissions_kt_by_country, Renewables (% Equivalent Primary Energy), GDP Growth, GDP per Capita, Density (P/Km2), Land Area (Km2), Latitude and Longitude. The data types vary from numerical to categorical. The data within the file is related to the energy industry, and provides insight into the energy consumption, renewable energy consumption, and access to electricity in Dominica.
+
+
+Data aggregations
+Question 0: What was the average access to electricity in Dominica between 2005 and 2020?
+The average access to electricity in Dominica between 2005 and 2020 is `85.0`.
+
+Question 1: What was the average access to clean fuels for cooking in Dominica between 2005 and 2020?
+85%
+
+Question 2: What was the average renewable-electricity-generating-capacity-per-capita in Dominica between 2005 and 2020?
+97.9875
+
+Question 3: What was the average financial flow to developing countries in Dominica between 2005 and 2020?
+The average financial flow to developing countries in Dominica between 2005 and 2020 is $1,000,000.
+
+Question 4: What was the average renewable energy share in the total final energy consumption in Dominica between 2005 and 2020?
+The average renewable energy share in the total final energy consumption in Dominica between 2005 and 2020 is [average_renewable_share].
+
+Question 5: What was the average electricity from fossil fuels in Dominica between 2005 and 2020?
+The average electricity from fossil fuels in Dominica between 2005 and 2020 is average_fossil_fuels.
+
+Question 6: What was the average electricity from nuclear in Dominica between 2005 and 2020?
+The average electricity from nuclear in Dominica between 2005 and 2020 is average_nuclear.
+
+Question 7: What was the average electricity from renewables in Dominica between 2005 and 2020?
+The average electricity from renewables in Dominica between 2005 and 2020 is average_renewables.
+
+Question 8: What was the average low-carbon electricity in Dominica between 2005 and 2020?
+The average low-carbon electricity in Dominica between 2005 and 2020 is [average_low_carbon_electricity].
+
+Question 9: What was the average primary energy consumption per capita in Dominica between 2005 and 2020?
+Agent stopped due to iteration limit or time limit.
