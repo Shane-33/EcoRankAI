@@ -40,7 +40,7 @@ export OPENAI_API_KEY="your_openai_api_key"
 ```
 
 ```
-streamlit run main.py
+streamlit run app.py
 ```
 
 ## License
